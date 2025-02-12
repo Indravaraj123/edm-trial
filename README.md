@@ -1,3 +1,1 @@
-# edm-trial
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/bublpp/edm-trial)
+this is my on going project which is not completed yet...
